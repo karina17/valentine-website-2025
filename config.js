@@ -9,7 +9,7 @@ const CONFIG = {
 
     // The title that appears in the browser tab
     // You can use emojis! 💝 💖 💗 💓 💞 💕
-    pageTitle: "Вы хотите быть моей девушкой? 💝 🙏 ",
+    pageTitle: "Вы можете меня простить, пожалуйста? 💝 🙏 ",
 
     // Floating emojis that appear in the background
     // Find more emojis at: https://emojipedia.org
