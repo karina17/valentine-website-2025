@@ -9,7 +9,7 @@ const CONFIG = {
 
     // The title that appears in the browser tab
     // You can use emojis! 💝 💖 💗 💓 💞 💕
-    pageTitle: "Вы можете меня простить, пожалуйста? 💝 🙏 ",
+    pageTitle: "Вы хотите провести со мной 8 марта? 💝 🙏 ",
 
     // Floating emojis that appear in the background
     // Find more emojis at: https://emojipedia.org
@@ -22,13 +22,13 @@ const CONFIG = {
     // Customize each question and its possible responses
     questions: {
         first: {
-            text: "Я вам нравлюсь?",                                    // First interaction
+            text: "Вы можете меня простить, пожалуйста? 💝 🙏",                                    // First interaction
             yesBtn: "Да",                                             // Text for "Yes" button
             noBtn: "Нет",                                               // Text for "No" button
-            secretAnswer: "Нет, не нравишься, Я тебя люблю! ❤️"           // Secret hover message
+            secretAnswer: "Нет, но Я тебя люблю! ❤️"           // Secret hover message
         },
         second: {
-            text: "Как сильно вы меня любите?",                          // For the love meter
+            text: "Вы меня еще любите?",                          // For the love meter
             startText: "Вот столько!",                                   // Text before the percentage
             nextBtn: "Дальше ❤️"                                         // Text for the next button
         },
