@@ -33,7 +33,7 @@ const CONFIG = {
             nextBtn: "Дальше ❤️"                                         // Text for the next button
         },
         third: {
-            text: "Вы еще готовы и хотите провести со мной 8 марта? 🌹", // The big question!
+            text: "Мы можем провести 8 марта вместе? 🌹", // The big question!
             yesBtn: "Да!",                                             // Text for "Yes" button
             noBtn: "Нет"                                                 // Text for "No" button
         }
@@ -50,7 +50,7 @@ const CONFIG = {
     // Messages that appear after they say "Yes!"
     celebration: {
         title: "Вы самая прекрасная женщина в моей жизни! 🎉💝💖💝💓",
-        message: "С праздником вас, любовь моя!",
+        message: "С праздником вас, мой нежный одуванчик!",
         emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
     },
 
